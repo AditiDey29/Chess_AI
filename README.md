@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=XxccOkFPmAY
 
 ### References
 - https://medium.com/free-code-camp/simple-chess-ai-step-by-step-1d55a9266977
-- https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_
+- Playlist by Eddie Sharick on YouTube - https://www.youtube.com/watch?v=EnYui0e73Rs
