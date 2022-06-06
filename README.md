@@ -1,6 +1,6 @@
 # Chess AI
 
-### Demo Video: 
+### Demo Video
 https://www.youtube.com/watch?v=XxccOkFPmAY
 
 ### Features
